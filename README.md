@@ -4,10 +4,10 @@ enthusiastic cross platform, backend developer with +4 years of experience.
 
 ## About me
 
-- 👨‍💻: I am currently working on cross platform projects
+- 👨‍💻 I am currently working on cross platform projects
 - :nerd_face: I like to experience new stuff.
 - :student: I’m currently studying `Computer Science` and `Software Engineering`.
-- 📫How to reach me: salehsoleymani81@gmail.com
+- 📫 How to reach me: salehsoleymani81@gmail.com
 
 
 ## 🛠️ My Skills
