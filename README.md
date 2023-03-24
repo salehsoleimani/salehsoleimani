@@ -1,16 +1,15 @@
-<h1>Hey , It's Saleh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>It's Saleh</h1>
 
 enthusiastic cross platform, backend developer with +4 years of experience.
 
 ## About me
 
-- 👨‍💻 I am currently working on cross platform projects
-- :nerd_face: I like to experience new stuff.
-- :student: I’m currently studying `Computer Science` and `Software Engineering`.
+- 👨‍💻 I am currently working on cross platform projects.
+- :nerd_face: I like to experience new stuff, I enjoy facing with new challenges.
 - 📫 How to reach me: salehsoleymani81@gmail.com
 
 
-## 🛠️ My Skills
+## My Skills
 
 ### Cross Platform
 
@@ -119,6 +118,10 @@ enthusiastic cross platform, backend developer with +4 years of experience.
    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://sass-lang.com/" target="_blank"> 
+     <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  </a>
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -127,9 +130,4 @@ enthusiastic cross platform, backend developer with +4 years of experience.
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
-</p>
-
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
