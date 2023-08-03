@@ -4,8 +4,8 @@ enthusiastic cross platform, backend developer with +4 years of experience.
 
 ## About me
 
-- 👨‍💻 I am currently working on cross platform projects.
-- :nerd_face: I like to experience new stuff, I enjoy facing with new challenges.
+- 👨‍💻 I am currently working on cross platform, Backend projects.
+- :nerd_face: I am interested in DL, Computer Vision, NLP
 - 📫 How to reach me: salehsoleymani81@gmail.com
 
 
