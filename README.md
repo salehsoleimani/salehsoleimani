@@ -77,8 +77,8 @@ enthusiastic cross platform, backend developer with +4 years of experience.
     <img alt="Jwt" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   </a>
   &emsp; 
-   <a href="https://www.fastify.io" target="_blank">
-    <img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white">
+   <a href=" target="_blank">
+    <img alt="Fast Api" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   </a>
 </p>
 
