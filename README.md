@@ -1,6 +1,6 @@
 <h1>It's Saleh</h1>
 
-enthusiastic cross platform, backend developer with +4 years of experience.
+enthusiastic Android, Cross Platform, Backend developer with +5 years of experience.
 
 ## About me
 
