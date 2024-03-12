@@ -1,15 +1,16 @@
-<h1>It's Saleh</h1>
+<h1>Saleh Soleimani</h1>
 
-enthusiastic Android, cross-platform, Backend, MERN stack developer with +5 years of experience.
+Enthusiastic Android, Cross-Platform, Back-end, MERN stack developer with +5 years of experience.
 
 ## About me
 
-- :nerd_face: I am interested in DL, Computer-Vision
-- 📫 How to reach me: salehsoleymani81@gmail.com
+- I tend to be a generalist, open to new experiences
+- I am interested in DL, Computer-Vision
+- 📫 let's talk about what's in your mind: salehsoleymani81@gmail.com
 
-## My Skills
+## Skills
 
-### Cross Platform
+### Cross-Platform
 
 <p> 
   &emsp; 
@@ -22,7 +23,7 @@ enthusiastic Android, cross-platform, Backend, MERN stack developer with +5 year
   </a>
 </p>
 
-### Android App Development
+### Android
 
 <p>
 &emsp; 
@@ -43,7 +44,7 @@ enthusiastic Android, cross-platform, Backend, MERN stack developer with +5 year
   </a>
 </p>
 
-### Backend Development
+### Back-End
 
 <p>
    &emsp; 
@@ -80,7 +81,7 @@ enthusiastic Android, cross-platform, Backend, MERN stack developer with +5 year
   </a>
 </p>
 
-### Database Management
+### DBMS
 
 <p>
   &emsp; 
@@ -99,9 +100,10 @@ enthusiastic Android, cross-platform, Backend, MERN stack developer with +5 year
    <a href="https://www.mysql.com" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-&emsp; 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
+   &emsp; 
+     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
 </p>
+
 
 ### Front-End
 <p>
