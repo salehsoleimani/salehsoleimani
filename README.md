@@ -1,13 +1,11 @@
 <h1>It's Saleh</h1>
 
-enthusiastic Android, Cross Platform, Backend developer with +5 years of experience.
+enthusiastic Android, cross-platform, Backend, MERN stack developer with +5 years of experience.
 
 ## About me
 
-- 👨‍💻 I am currently working on cross platform, Backend projects.
-- :nerd_face: I am interested in DL, Computer Vision, NLP
+- :nerd_face: I am interested in DL, Computer-Vision
 - 📫 How to reach me: salehsoleymani81@gmail.com
-
 
 ## My Skills
 
@@ -101,10 +99,11 @@ enthusiastic Android, Cross Platform, Backend developer with +5 years of experie
    <a href="https://www.mysql.com" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+&emsp; 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
 </p>
 
-### Other Stuff
-
+### Front-End
 <p>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -122,12 +121,9 @@ enthusiastic Android, Cross Platform, Backend developer with +5 years of experie
   <a href="https://sass-lang.com/" target="_blank"> 
      <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   </a>
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
+    &emsp;
+     <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      &emsp;
+       <img alt="ReactJS" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+
 </p>
