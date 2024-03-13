@@ -6,7 +6,7 @@ Enthusiast Android, Cross-Platform, Back-end, MERN stack developer with +5 years
 
 - I tend to be a generalist, open to new experiences
 - I am interested in DL, Computer-Vision
-- 📫 let's chat about what's in your mind: <a href="https://t.me/salehsoleimani">Telegram</a> salehsoleymani81@gmail.com
+- 📫 let's chat about what's in your mind: <a href="https://t.me/salehsoleimani">Telegram</a>&emsp;<a href="mailto://salehsoleymani81@gmail.com">or Mail if you prefer</a>
 
 ## Skills
 
