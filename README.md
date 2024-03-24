@@ -1,6 +1,6 @@
 <h1>Saleh Soleimani</h1>
 
-Enthusiast Android, Cross-Platform, Back-end, MERN stack developer with +5 years of experience.
+Passionate Android, Cross-Platform, Back-end, MERN stack developer with +5 years of experience.
 
 ## About me
 
